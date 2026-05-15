@@ -1,4 +1,4 @@
-# Screenshot And Note System
+# Screenshot And Notes System
 
 Selamat datang di ekosistem **Screenshot And Note**! 
 
