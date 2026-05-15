@@ -1,4 +1,4 @@
-# Screenshot to Notion App
+# Screenshot And Note (Notion Version)
 
 Aplikasi desktop sederhana yang memungkinkan Anda untuk mengambil tangkapan layar (screenshot), mencoret-coret/menandai gambar tersebut, menambahkan catatan, dan langsung menyimpannya ke halaman Notion yang Anda tentukan. Aplikasi ini sepenuhnya berjalan secara lokal tanpa memerlukan bantuan AI buatan, sehingga sangat ringan dan dapat dikontrol sepenuhnya oleh Anda.
 
